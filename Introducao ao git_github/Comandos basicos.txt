@@ -1,0 +1,28 @@
+ls = lista arquivos
+ls -a = lista arquivos todos os arquivos, incluindo ocultos
+cd = navega entre as pastas
+cd .. = volta uma pasta
+clear = limpa o terminal
+pwd = mostra o diretório atual
+
+
+***Iniciar git
+- git init
+
+***Mostra status
+- git status
+
+
+***Iniciar o versionamento
+- git add *
+
+
+***Criar um commit
+- git commit -m "<mensagem de texto para commit>"
+
+***Envia versão para nuvem (repositório github)
+- git push origin main
+
+
+***Clonar projeto do servidor para maquina local
+- git clone <url do projeto>
